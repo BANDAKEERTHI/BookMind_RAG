@@ -1,0 +1,34 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Vector database
+vectorstore/
+
+# Uploaded PDFs
+uploads/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test cache
+.pytest_cache/
+
+# Mypy cache
+.mypy_cache/
+
+# Coverage files
+.coverage
+htmlcov/
